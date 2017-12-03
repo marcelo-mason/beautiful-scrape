@@ -23,7 +23,6 @@ class BeautifulScrape {
             if (found.length) {
               return found[0]
             }
-            return []
           },
           findAll: selector => {
             return soup(selector)
