@@ -1,6 +1,6 @@
 {
   "name": "beautiful-scrape",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scrape webpages with soupselect (w/ promises)",
   "main": "index.js",
   "scripts": {
