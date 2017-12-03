@@ -1,4 +1,4 @@
-const { select } = require('soupselect')
+const { select } = require('soupselect-update')
 const request = require('request-promise')
 const htmlparser = require('htmlparser')
 

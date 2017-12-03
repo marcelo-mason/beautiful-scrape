@@ -1,15 +1,15 @@
 {
   "name": "beautiful-scrape",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Scrape webpages with soupselect (w/ promises)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "soupselect": "*",
-    "request-promise": "*",
-    "htmlparser": "*"
+    "htmlparser": "^1.7.7",
+    "request-promise": "^4.2.2",
+    "soupselect-update": "^0.2.5"
   },
   "devDependencies": {
     "eslint": "^4.7.2",
